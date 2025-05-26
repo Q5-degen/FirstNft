@@ -106,8 +106,8 @@ Ensure you have the following installed:
 
 1.  **Clone your repository:**
     ```bash
-    git clone https://github.com/Q5-degen/CharityFactory.git
-    cd CharityFactory
+    git clone https://github.com/Q5-degen/FirstNft.git
+    cd FirstNft
     ```
 
 2.  **Install dependencies:**
